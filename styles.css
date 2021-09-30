@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+label {
+    display: block;
+    padding-bottom: 2rem;
+}
+
+#initial-price {
+    padding: 0.3rem;
+    text-align: end;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    border: 2rem;
+    color: white;
+    font-size: medium;
+}
+
+#stock-quantity {
+    padding: 0.3rem;
+    text-align: end;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    border: 2rem;
+    color: white;
+    font-size: medium;
+}
+
+#current-price {
+    padding: 0.3rem;
+    text-align: end;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    border: 2rem;
+    color: white;
+    font-size: medium;
+}
+
+#submit-btn {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    font-size: large;
+    border-radius: 0.5rem;
+    background-color: gray;
+}
+
+.footer {
+    padding: 1rem 1rem;
+    border-top-right-radius: 1rem;
+    text-align: center;
+    font-size: large;
+}
+
+.footer .link {
+    font-size: large;
+    color: gray;
+}
+
+.footer .social-link {
+    font-size: larger;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
+
+.footer .footer-header {
+    font-weight: bolder;
+    font-size: large;
+    padding-top: 1rem;
+}
+
+.list-non-bullet {
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 1rem;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
