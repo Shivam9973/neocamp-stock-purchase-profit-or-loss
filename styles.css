@@ -1,7 +1,7 @@
 body {
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: #1e847f;
+    color: #ecc19c;
 }
 
 label {
@@ -21,6 +21,7 @@ label {
 }
 
 #stock-quantity {
+    border: gray;
     padding: 0.3rem;
     text-align: end;
     display: flex;
@@ -61,7 +62,7 @@ label {
 
 .footer .link {
     font-size: large;
-    color: gray;
+    color: #ecc19c;
 }
 
 .footer .social-link {
