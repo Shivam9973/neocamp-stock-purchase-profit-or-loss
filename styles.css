@@ -7,6 +7,7 @@ body {
 label {
     display: block;
     padding-bottom: 2rem;
+    font-size: larger;
 }
 
 #initial-price {
@@ -50,7 +51,7 @@ label {
     padding-bottom: 0.8rem;
     font-size: large;
     border-radius: 0.5rem;
-    background-color: gray;
+    background-color: #ecc19c;
 }
 
 .footer {
@@ -61,7 +62,7 @@ label {
 }
 
 .footer .link {
-    font-size: large;
+    font-size: larger;
     color: #ecc19c;
 }
 
@@ -75,7 +76,7 @@ label {
 
 .footer .footer-header {
     font-weight: bolder;
-    font-size: large;
+    font-size: larger;
     padding-top: 1rem;
 }
 
